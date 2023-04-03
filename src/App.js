@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './components/Header'
-import {BrowserRouter as Router, Route, Link, Routes} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Contact from './components/Contact';
 
 function App() {
